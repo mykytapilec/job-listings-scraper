@@ -2,6 +2,10 @@
 
 A Python application that scrapes job listings from a website, processes the collected data, and exports it to a CSV file.
 
+## Roadmap Project
+
+This project was built as part of the [Job Listings Scraper](https://roadmap.sh/projects/job-listings-scraper) challenge on roadmap.sh.
+
 The project uses [Fake Jobs](https://realpython.github.io/fake-jobs/) as its default data source.
 
 ## Features
