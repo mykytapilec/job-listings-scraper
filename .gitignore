@@ -31,3 +31,4 @@ dist/
 
 # Generated job listing exports
 data/
+jobs.csv
